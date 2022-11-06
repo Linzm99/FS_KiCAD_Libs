@@ -52,4 +52,9 @@
   (pad "Z2" smd rect (at 3.75 -1.15) (size 1 0.8) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 79f38fb8-5764-4472-93dc-1477a5c40983))
   (pad "Z3" smd rect (at 3.75 1.15) (size 1 0.8) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 3da8f2ff-0bd5-45c7-ac74-7fc26159980e))
   (pad "Z4" smd rect (at -3.75 1.15) (size 1 0.8) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 7a72a145-9d09-4b7c-8bd1-d5a0faead078))
+  (model "C:/Users/linzm/Downloads/Download_STP_450404015514 (rev1).stp"
+    (offset (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 180))
+  )
 )

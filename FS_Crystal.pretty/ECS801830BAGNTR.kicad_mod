@@ -34,7 +34,7 @@
   (pad "2" smd rect (at 1.85 1.1 90) (size 1.25 1.6) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 1e92a053-3770-4a0c-b158-b6b1d14d0bb8))
   (pad "3" smd rect (at 1.85 -1.1 90) (size 1.25 1.6) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 9dae8923-6fc8-4c62-ab0d-8c971dba0fc5))
   (pad "4" smd rect (at -1.85 -1.1 90) (size 1.25 1.6) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp c6c01f8e-e8f9-40f4-bba0-7c08a2f385f8))
-  (model "ECS-80-10-30B-CWN-TR.stp"
+  (model "C:/Users/linzm/Downloads/LIB_ECS-80-18-30B-AGN-TR/ECS-80-18-30B-AGN-TR/3D/ECS-80-18-30B-AGN-TR.stp"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
