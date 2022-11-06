@@ -34,8 +34,8 @@
   (fp_line (start -5 -2.6) (end -5 2.6) (layer "F.Fab") (width 0.1) (tstamp c60025fa-946b-41cb-a2e2-e83fb4474763))
   (pad "1" smd rect (at -4.15 0) (size 2.7 6.2) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp d05fdfd8-ee3a-459a-8529-671089e7243a))
   (pad "2" smd rect (at 4.15 0) (size 2.7 6.2) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 165d8d03-6387-4aac-bdfb-ebb183d69354))
-  (model "WSLP3921L5000FEA.stp"
-    (offset (xyz 0 -2.599999866 0))
+  (model "C:/Users/linzm/Downloads/LIB_WSLP3921L5000FEA/WSLP3921L5000FEA/3D/WSLP3921L5000FEA.stp"
+    (offset (xyz 0 -2.65 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )

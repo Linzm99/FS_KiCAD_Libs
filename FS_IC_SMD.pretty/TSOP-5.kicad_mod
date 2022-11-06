@@ -35,7 +35,7 @@
   (pad "3" smd rect (at -1.25 0.95 90) (size 0.6 1.25) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 66765e4e-5fb3-4c24-bb07-b39b89f84220))
   (pad "4" smd rect (at 1.25 0.95 90) (size 0.6 1.25) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 1f6be044-41d2-4a7a-a912-33e2ad20f641))
   (pad "5" smd rect (at 1.25 -0.95 90) (size 0.6 1.25) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp b2c5f757-0145-493c-aa63-e97befa7a2b8))
-  (model "M74VHC1GT66DTT1G.stp"
+  (model "C:/Users/linzm/Downloads/LIB_M74VHC1GT66DTT1G/M74VHC1GT66DTT1G/3D/M74VHC1GT66DTT1G.stp"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

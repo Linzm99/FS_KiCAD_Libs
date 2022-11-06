@@ -37,7 +37,7 @@
   (pad "6" smd rect (at 2.712 0.635 90) (size 0.7 1.525) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 50d7e0d3-f37a-42c3-971c-5e6d0b3d756a))
   (pad "7" smd rect (at 2.712 -0.635 90) (size 0.7 1.525) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp b7a8dc00-5e04-4c3c-9024-7612e75524e0))
   (pad "8" smd rect (at 2.712 -1.905 90) (size 0.7 1.525) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 5815cf9d-10b9-4949-bb1b-17e1380e5a3e))
-  (model "A5972D013TR.stp"
+  (model "C:/Users/linzm/Downloads/LIB_A5972D013TR/A5972D013TR/3D/A5972D013TR.stp"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
