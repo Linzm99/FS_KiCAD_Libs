@@ -26,6 +26,7 @@
   (fp_line (start -2 -1) (end -1 -2) (layer "F.Fab") (width 0.1) (tstamp 3c2d8b39-6f96-417d-81ab-fa42e055761c))
   (fp_line (start -2 2) (end -2 -2) (layer "F.Fab") (width 0.1) (tstamp 93172ad0-f9f4-4553-8db5-13cf3cca1b9b))
   (fp_line (start 2 -2) (end 2 2) (layer "F.Fab") (width 0.1) (tstamp adfeaa67-8763-4c44-b70b-68262597b122))
+<<<<<<< Updated upstream
   (pad "1" smd rect (at -1.95 -1.6 90) (size 0.35 0.85) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 68de80b1-5396-4080-835b-ae50acb09715))
   (pad "2" smd rect (at -1.95 -0.8 90) (size 0.35 0.85) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp e7fe5b2f-ab80-4eb5-ac15-47a8b8803fa4))
   (pad "3" smd rect (at -1.95 0 90) (size 0.35 0.85) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 5df567e1-fae8-46bc-90d5-e4bcaeafe650))
@@ -39,6 +40,21 @@
   (pad "11" smd rect (at 0 0) (size 2.7 3.1) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 825205f0-a0c2-47f3-90f5-2968192e1c33))
   (model "C:/Users/linzm/Downloads/LIB_UCC27210DPRT/UCC27210DPRT/3D/UCC27210DPRT.stp"
     (offset (xyz 0 0 0))
+=======
+  (pad "1" smd rect (at -2 -1.6 90) (size 0.35 0.85) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 68de80b1-5396-4080-835b-ae50acb09715))
+  (pad "2" smd rect (at -2 -0.8 90) (size 0.35 0.85) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp e7fe5b2f-ab80-4eb5-ac15-47a8b8803fa4))
+  (pad "3" smd rect (at -2 0 90) (size 0.35 0.85) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 5df567e1-fae8-46bc-90d5-e4bcaeafe650))
+  (pad "4" smd rect (at -2 0.8 90) (size 0.35 0.85) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp bac9b811-30dd-4884-9ac3-aa01d6d3af6c))
+  (pad "5" smd rect (at -2 1.6 90) (size 0.35 0.85) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp ed78530b-7c7b-439f-9e56-d7b99195cf8d))
+  (pad "6" smd rect (at 2 1.6 90) (size 0.35 0.85) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 5f2c4a99-a6bc-4e23-8660-a9ec5c685f9b))
+  (pad "7" smd rect (at 2 0.8 90) (size 0.35 0.85) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp f68555d4-2456-4f57-a336-5257ae46accf))
+  (pad "8" smd rect (at 2 0 90) (size 0.35 0.85) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 79c20a04-8b7e-48ee-9622-d22ad9dacbaa))
+  (pad "9" smd rect (at 2 -0.8 90) (size 0.35 0.85) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 55a5c830-9d75-4a64-8a4c-4e63e60352aa))
+  (pad "10" smd rect (at 2 -1.6 90) (size 0.35 0.85) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 56005595-d8fe-4530-9861-b38e51f21c30))
+  (pad "11" smd rect (at 0 0) (size 2.6 3) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 825205f0-a0c2-47f3-90f5-2968192e1c33))
+  (model "UCC27210DPRT.stp"
+    (offset (xyz 0 0.01999999925 0))
+>>>>>>> Stashed changes
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )
