@@ -53,7 +53,7 @@
       )
     )
   )
-  (model "C:/Users/linzm/Downloads/Download_STP_WE-PD2SA-7850 (rev1).stp"
+  (model ":3D-Models:Download_STP_WE-PD2SA-7850 (rev1).stp"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

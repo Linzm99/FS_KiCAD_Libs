@@ -1233,7 +1233,7 @@
   (pad "S2" thru_hole oval (at 4.32 -4.18) (size 1 2.1) (drill oval 0.6 1.7) (layers *.Cu) (tstamp 6e980997-afce-4159-8940-a19045ee4e7e))
   (pad "S3" thru_hole oval (at -4.32 0) (size 1 1.8) (drill oval 0.6 1.4) (layers *.Cu) (tstamp 6f1f99ee-7dcc-4d5f-bf64-4312544a5ee9))
   (pad "S4" thru_hole oval (at 4.32 0) (size 1 1.8) (drill oval 0.6 1.4) (layers *.Cu) (tstamp f61599dc-1533-44c7-a4fd-e104f3bf2ba2))
-  (model "C:/Users/linzm/Downloads/STP_629722000214 (rev1).stp"
+  (model ":3D-Models:STP_629722000214 (rev1).stp"
     (offset (xyz 0 2.2 1.6))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

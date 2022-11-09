@@ -28,7 +28,7 @@
   (pad "2" smd rect (at 1.825 -1.125 180) (size 1.15 1.55) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 0b443fe4-5d0d-4a1f-93de-7cf608eeb6ca))
   (pad "3" smd rect (at -1.825 1.125 180) (size 1.15 1.55) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 17f8e85e-e9cd-4f5d-853d-3a30095b7de8))
   (pad "4" smd rect (at 1.825 1.125 180) (size 1.15 1.55) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 62a6b1be-c4e2-4f3c-b502-f1e25ecfaa44))
-  (model "C:/Users/linzm/Downloads/WE-CNSW_1812_CNSW (rev1).stp"
+  (model ":3D-Models:WE-CNSW_1812_CNSW (rev1).stp"
     (offset (xyz 0 0 2.8))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 -180 0))

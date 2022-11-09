@@ -46,7 +46,7 @@
   (pad "14" smd rect (at 4.712 -1.905 90) (size 0.7 1.925) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 403562fc-6f95-4ee1-ade8-72cc0f7032ff))
   (pad "15" smd rect (at 4.712 -3.175 90) (size 0.7 1.925) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp a5c99280-f8cb-4a92-ae74-be051f1703cf))
   (pad "16" smd rect (at 4.712 -4.445 90) (size 0.7 1.925) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp fbf95afb-8b87-4c3a-a457-de8abcb3f774))
-  (model "C:/Users/linzm/Downloads/LIB_L4971D/L4971D/3D/L4971D.stp"
+  (model ":3D-Models:L4971D.stp"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

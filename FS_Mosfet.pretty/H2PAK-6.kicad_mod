@@ -38,7 +38,7 @@
   (pad "3" smd rect (at -2.54 6.875) (size 0.8 3.5) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 6b4bead0-927a-4588-a2d6-2efbe4b9cac4))
   (pad "3" smd rect (at -1.27 6.875) (size 0.8 3.5) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 8aba6909-610f-443f-8e33-f1b6738047bd))
   (pad "3" smd rect (at 2.54 6.875) (size 0.8 3.5) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp ca7dc651-3456-4292-8779-c336ab7b478b))
-  (model "C:/Users/linzm/Downloads/H2PAK6.step"
+  (model ":3D-Models:H2PAK6.step"
     (offset (xyz 0 -3.5 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

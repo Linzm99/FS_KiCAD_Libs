@@ -25,4 +25,9 @@
   (pad "4" smd rect (at 2 2.5) (size 1 2) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp fbf3a324-2bc4-497d-aaa2-8a34cdc194ed))
   (pad "5" smd rect (at 0 2.5) (size 1 2) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 27891d48-b028-4f70-9ece-822f3670f966))
   (pad "6" smd rect (at -2 2.5) (size 1 2) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 6e69355f-84e4-43f6-835d-1d672e0a4b35))
+  (model ":3D-Models:621006242921 (rev1).stp"
+    (offset (xyz 0 0 2.5))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )

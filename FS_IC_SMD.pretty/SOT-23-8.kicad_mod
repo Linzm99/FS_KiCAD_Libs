@@ -38,7 +38,7 @@
   (pad "6" smd rect (at 1.25 0.325 90) (size 0.45 1.2) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 64b51962-657f-4432-972a-b46057da8c30))
   (pad "7" smd rect (at 1.25 -0.325 90) (size 0.45 1.2) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 54133afc-e185-457c-bb36-80f7bad4452b))
   (pad "8" smd rect (at 1.25 -0.975 90) (size 0.45 1.2) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 4c32ed48-aeca-4db2-a423-f7897c254fb9))
-  (model "C:/Users/linzm/Downloads/LIB_MAX3051EKA+T/MAX3051EKA+T/3D/MAX3051EKA+T.stp"
+  (model ":3D-Models:MAX3051EKA+T.stp"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
