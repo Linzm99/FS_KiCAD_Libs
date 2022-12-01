@@ -1,4 +1,4 @@
-(footprint "RT_Logo" (version 20211014) (generator pcbnew)
+(footprint "RT_Logo_4.75mm" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 0)
   (attr board_only exclude_from_pos_files exclude_from_bom)

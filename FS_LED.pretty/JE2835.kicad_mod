@@ -19,4 +19,9 @@
   (fp_line (start 1.75 1.4) (end 1.75 1) (layer "F.SilkS") (width 0.12) (tstamp ddcf35c2-109d-42cd-a2c1-753df43fa6e1))
   (pad "1" smd rect (at 1.39 0) (size 1.1 1.8) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp e68b7aaf-6a5b-4c08-883b-b3fa3d9015ac))
   (pad "2" smd rect (at -0.85 0) (size 2.2 1.8) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 8948a6c7-8900-49f9-aa31-db14677d5e96))
+  (model ":3D-Models:Jx2835-3D.STEP"
+    (offset (xyz 0 0 0.7))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 -90))
+  )
 )
