@@ -20,4 +20,9 @@
   (pad "2" smd rect (at -6.78 1.245) (size 2.08 1.08) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 9c59f50d-72f0-4344-880e-1dae78c6bb51))
   (pad "3" smd rect (at 6.78 3.735) (size 2.08 1.07) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 21194816-9845-465f-8eb7-479eb2f957ce))
   (pad "4" smd rect (at 6.78 -3.735) (size 2.08 1.07) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 72c1532e-e2e1-441c-abee-e86eec96e3d9))
+  (model ":3D-Models:Coilcraft-NA5743-AL.STEP"
+    (offset (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz -90 0 0))
+  )
 )

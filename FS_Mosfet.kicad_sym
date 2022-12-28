@@ -10,7 +10,7 @@
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "https://www.st.com/resource/en/datasheet/vn7003ah.pdf" (id 3) (at 0 0 0)
-      (effects (font (size 1.524 1.524)))
+      (effects (font (size 1.524 1.524)) hide)
     )
     (property "ki_fp_filters" "OctaPAK7_6P1X6P5_STM OctaPAK7_6P1X6P5_STM-M OctaPAK7_6P1X6P5_STM-L" (id 4) (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
