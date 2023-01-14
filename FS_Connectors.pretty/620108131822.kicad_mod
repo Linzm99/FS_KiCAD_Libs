@@ -44,7 +44,7 @@
   (pad "8" smd rect (at 7 0 180) (size 1.5 3.4) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 8810348b-f2c9-4110-8d7f-3ba8d01bfb6d))
   (pad "Z1" smd rect (at -9.3 5.65 180) (size 1.4 3.1) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp dd55f708-be44-4fc3-9c0b-8913cf3d1bf0))
   (pad "Z2" smd rect (at 9.3 5.65 180) (size 1.4 3.1) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp fa47cd9f-2a71-4724-b2fb-35c852ecd9a9))
-  (model ":3D-Models:620108131822 (rev1).stp"
+  (model ":3D-Models:620108131822.stp"
     (offset (xyz 0 -4 2.8))
     (scale (xyz 1 1 1))
     (rotate (xyz 90 0 180))
