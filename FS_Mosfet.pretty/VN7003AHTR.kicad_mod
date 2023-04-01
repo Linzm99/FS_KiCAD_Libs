@@ -6,7 +6,7 @@
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp a6de1595-314c-42a2-8ae0-992da8676b6e)
   )
-  (fp_text value "OctaPAK7_6P1X6P5_STM" (at 0 -5.4) (layer "F.SilkS")
+  (fp_text value "OctaPAK7_6P1X6P5_STM" (at 0 -5.4) (layer "F.SilkS") hide
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 4358c7f8-cee3-4993-a993-b3dc75031417)
   )
